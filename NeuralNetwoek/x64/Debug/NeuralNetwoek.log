@@ -1,0 +1,6 @@
+﻿  Network.cpp
+C:\Users\Josh\source\repos\NeuralNetwoek\NeuralNetwoek\Network.cpp(6,38): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  NeuralNetwork.cpp
+  Neuron.cpp
+  Generating Code...
+  NeuralNetwoek.vcxproj -> C:\Users\Josh\source\repos\NeuralNetwoek\x64\Debug\NeuralNetwork.exe
